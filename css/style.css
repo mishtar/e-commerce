@@ -1,0 +1,42 @@
+.card{   
+    margin-top: 10px;
+}
+
+.card-body{
+    border: 1px ridge;
+    margin: 4px;
+    padding: 5px;   
+}
+
+.modal-element{
+    line-height: 2;
+}
+
+.navbar{
+    margin: 10px;
+}
+
+.pills{
+    margin : 16px;
+}
+
+.panel{
+    margin: 10px;
+}
+
+.shirt{
+    width: 100%;
+}
+
+.textarea{
+    margin: 10px;
+}
+
+#carousel{
+    margin-top : 10px;
+    max-width: 848px;
+}
+
+#navbar{
+    height: 1px;
+}
